@@ -1,3 +1,7 @@
+# written by: Kevin Pielacki
+# tested by: Kevin Pielacki
+
+
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
 ACCESS_TOKEN = ''

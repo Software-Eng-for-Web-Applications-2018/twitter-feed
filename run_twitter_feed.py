@@ -1,3 +1,7 @@
+# written by: Kevin Pielacki
+# tested by: Kevin Pielacki
+
+
 import pymysql
 import threading
 import tweepy
